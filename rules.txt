@@ -1,0 +1,43 @@
+----------------------** THE RULES OF SKYJO **----------------------------
+
+- Skyjo is played with a deck of 150 cards numbered from -2 to 12.
+  We gave each value the name of a UTBM professor (ex: "Girardot (-2)" )
+  DISCLAIMER : Our ranking is subjective and is solely our responsibility !
+
+- The game can be played with 2 to 8 players.
+
+---------------------** BEGINNING OF THE GAME**---------------------------
+
+- Each player is dealt 12 cards, which are placed face down in front
+  of them. 4 column of 3.
+
+- Each player reveals two cards of their choice face up. The player with
+  the highest sum of the two cards starts the round.
+
+--------------------------** THE GAME **---------------------------------------
+
+- The objective of the game is to have the lowest score possible at
+  the end of the game.
+
+- On each turn, players can either exchange one of their cards with the
+  visible card on the table from the discard pile or draw a card from the draw pile.
+
+- SPECIAL RULE : If a player reveals or places 3 identical cards in a column,
+  then the player gets rid of these 3 cards! (by placing them in the discard pile)
+
+- A player end the game when all their cards are visible. The other
+  players then have one more turn to play.
+
+----------------------------** ENDING **-----------------------------------------
+
+- Points are counted at the end of the game by adding up the value of
+  the cards
+
+- If the player who finished the round first did not obtain the
+  lowest score in that round, then the sum of their points for that round is doubled.
+
+- At the end of each round, the points of each player are added to the total
+  score obtained in previous rounds.
+
+- The game ends as soon as a player reaches 100 points or more. 
+  The player with the lowest score wins the game
